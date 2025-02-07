@@ -6,7 +6,7 @@ Este projeto utiliza um Raspberry Pi Pico W para controlar LEDs, exibir números
 
 - **Matriz de LEDs**: Exibe números de 0 a 9 conforme pressionado.
 - **Display OLED SSD1306**: Mostra a entrada de caracteres e o estado dos LEDs.
-- **Botões A e B**: 
+- **Botões A e B**:
   - O botão A alterna o estado do LED verde.
   - O botão B alterna o estado do LED azul.
 - **Debounce**: Garantia de um tempo de debounce de 200ms para evitar leituras incorretas dos botões.

@@ -1,4 +1,3 @@
-// #include "inc/ssd1306.h"
 #include "inc/font.h"
 #include <stdio.h>
 #include "pico/stdlib.h"
